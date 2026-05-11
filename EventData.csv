@@ -1,0 +1,21 @@
+EventName,Year,Probability,StockEffect,PriceEffect,TargetType
+Wall Street Crash,1929,0.03,0,-10,GLOBAL
+Stock Market Crash,1973,0.04,-5,-7,GLOBAL
+Black Monday,1987,0.03,0,-9,GLOBAL
+Asian Financial Crisis,1997,0.04,-8,-6,GLOBAL
+Dot-com Bubble Burst,2000,0.04,0,-8,GLOBAL
+Global Financial Crisis,2008,0.03,-10,-9,GLOBAL
+Flash Crash,2010,0.05,0,-5,GLOBAL
+COVID Market Crash,2020,0.03,-12,-8,GLOBAL
+Hurricane,null,0.08,-25,6,CELL
+Wildfire,null,0.07,-20,5,ROW
+Drought,null,0.06,-15,3,GLOBAL
+Tech Boom,null,0.07,15,4,GLOBAL
+Factory Expansion,null,0.08,25,-3,CELL
+Subsidy Boosts,null,0.06,20,-4,GLOBAL
+New Regulations,null,0.06,-10,3,GLOBAL
+Tariffs,null,0.05,-8,4,GLOBAL
+Consumer Trend Surge,null,0.07,0,6,COLUMN
+Shipping Delays,null,0.06,-12,3,ROW
+Energy Price Spike,null,0.05,-10,5,GLOBAL
+Trump Declares War on Random Country,null,0.01,-20,-12,GLOBAL
